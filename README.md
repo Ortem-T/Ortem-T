@@ -33,3 +33,10 @@ I am a novice front end developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="60" height="60"/> 
 </div>
+
+<hr>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ortem-T&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ortem-T&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
