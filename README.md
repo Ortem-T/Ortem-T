@@ -1,15 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm Artem
+    Привет всем, меня зовут Артем!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 <hr>
 
-### :man_technologist: About Me :
-I am a novice front end developer.
+### :man_technologist: Обо мне :
+- Я начинающий Frontend-разработчик.
+- Хочу стать Frontend-разработчиком в продуктовой или аутсорс компании и готов приложить для этого все усилия.
+
 <!--- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -20,7 +22,7 @@ I am a novice front end developer.
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -36,7 +38,7 @@ I am a novice front end developer.
 
 <hr>
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ortem-T&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ortem-T&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
